@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace Cafe_Free
+{
+    class TruyXuatSQL
+    {
+        Database db;
+        public DataTable LayDSDocGia()
+        {
+            string strSQL = "Select * from docgia";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat du lieu  
+            return dt;
+        }
+    }
+}
