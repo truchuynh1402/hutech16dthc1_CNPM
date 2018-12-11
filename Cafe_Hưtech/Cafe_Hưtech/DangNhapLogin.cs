@@ -30,7 +30,7 @@ namespace Cafe_Hưtech
         { }
         public bool Login(string UserName, string PassWord)
         {
-            string query = "select * Form dbo.Acc Where UserName = N'" + UserName + "' and PassAcc = N'" + PassWord + "'";
+            string query = "select * From dbo.Acc Where UserName = N'" + UserName + "' and PassAcc = N'" + PassWord + "'";
             DataTable result = DataProvider.Instance.ExecuteQuery(query);
             return result.Rows.Count > 0;
             // return false;

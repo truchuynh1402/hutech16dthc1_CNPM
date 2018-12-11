@@ -31,5 +31,18 @@ namespace Cafe_Hưtech
         {
 
         }
+
+        private void hỆTHỐNGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aDMIMToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            fadmin QL = new fadmin();
+            QL.ShowDialog();
+
+        }
     }
 }

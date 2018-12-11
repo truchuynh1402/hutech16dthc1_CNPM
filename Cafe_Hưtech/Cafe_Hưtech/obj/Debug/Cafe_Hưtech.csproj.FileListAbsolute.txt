@@ -34,3 +34,38 @@ c:\users\q-pc\documents\visual studio 2015\Projects\Cafe_Hưtech\Cafe_Hưtech\ob
 c:\users\q-pc\documents\visual studio 2015\Projects\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.csproj.GenerateResource.Cache
 c:\users\q-pc\documents\visual studio 2015\Projects\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.exe
 c:\users\q-pc\documents\visual studio 2015\Projects\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.pdb
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\Cafe_Hưtech.exe.config
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.exe
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.pdb
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\Cafe_Hưtech.exe
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\Cafe_Hưtech.pdb
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.csprojResolveAssemblyReference.cache
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.fadmin.resources
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.fBanHang.resources
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.fDangNhap.resources
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.Properties.Resources.resources
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.csproj.GenerateResource.Cache
