@@ -69,3 +69,4 @@ C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\
 C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.fDangNhap.resources
 C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.Properties.Resources.resources
 C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.csproj.GenerateResource.Cache
+C:\Users\Q-PC\Documents\GitHub\hutech16dthc1_CNPM\Cafe_Hưtech\Cafe_Hưtech\obj\Debug\Cafe_Hưtech.fInfoAcc.resources
