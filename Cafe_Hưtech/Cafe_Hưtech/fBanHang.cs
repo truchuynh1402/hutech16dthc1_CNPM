@@ -48,5 +48,20 @@ namespace Cafe_Hưtech
             QL.ShowDialog();
 
         }
+
+        private void fBanHang_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        #region method
+        void loadsanhsachBan()
+        {
+
+        }
+
+        #endregion 
+        #region event
+        #endregion 
     }
 }
