@@ -24,16 +24,12 @@ namespace Cafe_Hưtech
 
         private void đĂNGXUÁTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           if( MessageBox.Show("Bạn có muốn đằng xuất không", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) != System.Windows.Forms.DialogResult.No)
-            {
-                this.Close();
-            }
+            this.Close();
         }
 
         private void tHÔNGTINTÀIKHOẢNToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            fInfoAcc Info = new fInfoAcc();
-            Info.ShowDialog();
+
         }
 
         private void hỆTHỐNGToolStripMenuItem_Click(object sender, EventArgs e)
