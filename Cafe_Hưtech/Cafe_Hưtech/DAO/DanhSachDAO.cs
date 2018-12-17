@@ -1,11 +1,11 @@
-﻿using System;
-using Cafe_Hưtech.DAO;
+﻿using Cafe_Hưtech.DAO;
 using Cafe_Hưtech.DTO;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data;
 
 
 namespace Cafe_Hưtech.DAO
@@ -28,12 +28,11 @@ namespace Cafe_Hưtech.DAO
         }
         private DanhSachDAO() { }
 
-        public List<DanhSach> LoadDanhSachBan()
+      public List<DanhSach> loadtablelist ()
         {
-            List<DanhSach> DanhSachList = new List<DanhSach>();
-            DataTable data = new DataProvider.Instance.ExecuteQuery("");
-            return DanhSachList;
-
+            List<DanhSach> datatablelist = new List<DanhSach>();
+            DataTable data = new DataProvider
+            return datatablelist;
         }
     }
 }

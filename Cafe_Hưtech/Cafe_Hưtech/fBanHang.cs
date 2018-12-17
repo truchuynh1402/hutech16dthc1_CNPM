@@ -55,7 +55,7 @@ namespace Cafe_Hưtech
         }
 
         #region method
-        void loadsanhsachBan()
+        void loaddanhsachBan()
         {
 
         }
